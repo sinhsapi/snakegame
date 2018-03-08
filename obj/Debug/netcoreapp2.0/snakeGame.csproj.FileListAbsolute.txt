@@ -1,0 +1,10 @@
+/Users/nguyenvansinh/Desktop/snakeGame/bin/Debug/netcoreapp2.0/snakeGame.deps.json
+/Users/nguyenvansinh/Desktop/snakeGame/bin/Debug/netcoreapp2.0/snakeGame.runtimeconfig.json
+/Users/nguyenvansinh/Desktop/snakeGame/bin/Debug/netcoreapp2.0/snakeGame.runtimeconfig.dev.json
+/Users/nguyenvansinh/Desktop/snakeGame/bin/Debug/netcoreapp2.0/snakeGame.dll
+/Users/nguyenvansinh/Desktop/snakeGame/bin/Debug/netcoreapp2.0/snakeGame.pdb
+/Users/nguyenvansinh/Desktop/snakeGame/obj/Debug/netcoreapp2.0/snakeGame.csproj.CoreCompileInputs.cache
+/Users/nguyenvansinh/Desktop/snakeGame/obj/Debug/netcoreapp2.0/snakeGame.AssemblyInfoInputs.cache
+/Users/nguyenvansinh/Desktop/snakeGame/obj/Debug/netcoreapp2.0/snakeGame.AssemblyInfo.cs
+/Users/nguyenvansinh/Desktop/snakeGame/obj/Debug/netcoreapp2.0/snakeGame.dll
+/Users/nguyenvansinh/Desktop/snakeGame/obj/Debug/netcoreapp2.0/snakeGame.pdb
